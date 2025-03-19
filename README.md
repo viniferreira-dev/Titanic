@@ -5,8 +5,7 @@ Titanic: Predicting Passenger Survival
 This project aims to [briefly explain the purpose, e.g., predict Titanic survival using Machine Learning]. The dataset was obtained from Kaggle, and the approach includes exploratory analysis, feature engineering, and the application of different machine learning models.  
 
 ---
-
-## 📊 **Workflow**  
+ 
 
 ![Porject Workflow](https://github.com/user-attachments/assets/7812534f-333d-4b48-9efa-b5db7ef25a32)
 
@@ -20,21 +19,15 @@ The project follows these steps:
 
 ---
 
-## ⚙️ **Requirements**  
-
-Ensure you have the following libraries installed before running the project:  
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
 ## 🤝 **Contributing**  
 
 If you’d like to suggest improvements or collaborate on this project, feel free to open a Pull Request!  
 
-📧 **Contact:** [Your LinkedIn or email]  
-
+---
+##
+📧 **Contact:** 
+- [Your LinkedIn or email]  
+- [email]
 ---
 
-This version keeps it professional and clear for an international audience. Let me know if you'd like any refinements! 🚀
 
