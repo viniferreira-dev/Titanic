@@ -8,7 +8,8 @@ If you want to access this project on Kaggle, follow the link below:
 - https://www.kaggle.com/code/viniferreirads/titanic-predicting-passenger-survival
 
 ---
-![Porject Workflow](https://github.com/user-attachments/assets/5fa115b2-102e-46d8-adaf-bedafb57b0b2)
+![Porject Workflow (1)](https://github.com/user-attachments/assets/166ad025-e0ff-410e-9594-9051584c9d2e)
+
 
 The project follows these steps:  
 
