@@ -1,5 +1,5 @@
 
-# **Machine Learning Project - [Project Name]**  
+Titanic: Predicting Passenger Survival
 
 📌 **Description**  
 This project aims to [briefly explain the purpose, e.g., predict Titanic survival using Machine Learning]. The dataset was obtained from Kaggle, and the approach includes exploratory analysis, feature engineering, and the application of different machine learning models.  
@@ -8,7 +8,7 @@ This project aims to [briefly explain the purpose, e.g., predict Titanic surviva
 
 ## 📊 **Workflow**  
 
-![Workflow](path/to/image.png)  
+![Porject Workflow](https://github.com/user-attachments/assets/7812534f-333d-4b48-9efa-b5db7ef25a32)
 
 The project follows these steps:  
 1️⃣ **Exploratory Data Analysis (EDA)** → Understanding the data through descriptive statistics and visualizations.  
@@ -27,38 +27,6 @@ Ensure you have the following libraries installed before running the project:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
-
----
-
-## 🚀 **How to Run the Notebook**  
-
-1️⃣ Clone the repository:  
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-```
-
-2️⃣ Navigate to the project folder:  
-
-```bash
-cd your-repository
-```
-
-3️⃣ Open Jupyter Notebook and run the cells:  
-
-```bash
-jupyter notebook
-```
-
----
-
-## 📈 **Key Results**  
-
-- **Best model:** [Example: Logistic Regression with 85% accuracy].  
-- **Main insights:** [Mention one or two key findings from the exploratory analysis].  
-- **Generated visuals:** (Optional, you can insert images or links).  
-
----
 
 ## 🤝 **Contributing**  
 
