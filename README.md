@@ -8,7 +8,8 @@ If you want to access this project o kaggle follow: https://www.kaggle.com/code/
 
 ---
 
-![Porject Workflow](https://github.com/user-attachments/assets/7812534f-333d-4b48-9efa-b5db7ef25a32)
+If you want to access this project on Kaggle, follow the link below: 
+- https://www.kaggle.com/code/viniferreirads/titanic-predicting-passenger-survival#4.3-Feature-Selection
 
 The project follows these steps:  
 
