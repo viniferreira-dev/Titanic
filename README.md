@@ -3,6 +3,7 @@
 
 ## 📌 **Description**  
 This project aims to perform a comprehensive analysis of the "Titanic - Machine Learning from Disaster" case, applying a pipeline that reflects real-world Machine Learning applications in industry and market-related problems. The dataset was obtained from Kaggle, and the approach includes exploratory data analysis, feature engineering, and the implementation of various machine learning models. Additionally, I have included a brief introduction to Linear Regression to assist those who may not have a deep understanding of the mathematical foundations behind this ML model.
+
 If you want to access this project o kaggle follow: https://www.kaggle.com/code/viniferreirads/titanic-predicting-passenger-survival#4.3-Feature-Selection
 
 ---
